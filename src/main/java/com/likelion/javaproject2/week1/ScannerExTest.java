@@ -1,6 +1,4 @@
-package week1;
-
-import java.util.Scanner;
+package com.likelion.javaproject2.week1;
 
 public class ScannerExTest {
     public static void main(String[] args) {

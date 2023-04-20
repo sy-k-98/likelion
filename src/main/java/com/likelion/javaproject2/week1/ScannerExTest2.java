@@ -1,4 +1,4 @@
-package week1;
+package com.likelion.javaproject2.week1;
 
 public class ScannerExTest2 {
 
