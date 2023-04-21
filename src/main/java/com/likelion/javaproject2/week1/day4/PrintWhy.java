@@ -1,4 +1,4 @@
-package com.likelion.javaproject2.week1;
+package com.likelion.javaproject2.week1.day4;
 
 public class PrintWhy {
     void print() {

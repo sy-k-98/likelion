@@ -1,4 +1,6 @@
-package com.likelion.javaproject2.week1;
+package com.likelion.javaproject2.week1.day4;
+
+import com.likelion.javaproject2.week1.day4.ScannerEx2;
 
 public class ScannerExTest2 {
 

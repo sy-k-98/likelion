@@ -1,4 +1,4 @@
-package com.likelion.javaproject2.week1;
+package com.likelion.javaproject2.week1.day2_3;
 
 import java.io.IOException;
 import java.io.InputStreamReader;
