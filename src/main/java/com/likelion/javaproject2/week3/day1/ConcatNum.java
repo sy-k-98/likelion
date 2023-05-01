@@ -17,8 +17,8 @@ public class ConcatNum {
             }
         }
         answer = Integer.parseInt(even) + Integer.parseInt(odd);
-        return answer;
 
+        return answer;
     }
     public static void main(String[] args) {
         int[] num_list = {3, 4, 5, 2, 1};
