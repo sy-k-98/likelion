@@ -14,4 +14,3 @@ public class CodeUp1273 {
         }
     }
 }
-기
