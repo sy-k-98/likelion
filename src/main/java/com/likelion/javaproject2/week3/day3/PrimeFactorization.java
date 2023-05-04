@@ -17,6 +17,7 @@ public class PrimeFactorization {
 
         int idx = 0;
         int[] answer = new int[divisor + 1];
+
         for (int i = 0; i < arr.length; i++) {
             if (arr[i] != 0) {
                 answer[idx++] = arr[i];
