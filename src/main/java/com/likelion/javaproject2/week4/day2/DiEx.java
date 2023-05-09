@@ -6,7 +6,6 @@ public class DiEx {
     public DiEx(ShapeDrawer shapeDrawer) {
         this.shapeDrawer = shapeDrawer;
     }
-
     public void doSth() {
         shapeDrawer.printShape(5);
     }
