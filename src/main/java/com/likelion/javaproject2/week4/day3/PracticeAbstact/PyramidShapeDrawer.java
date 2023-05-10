@@ -1,4 +1,4 @@
-package com.likelion.javaproject2.week4.day3;
+package com.likelion.javaproject2.week4.day3.PracticeAbstact;
 
 public class PyramidShapeDrawer extends ShapeDrawer {
 

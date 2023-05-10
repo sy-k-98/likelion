@@ -1,4 +1,4 @@
-package com.likelion.javaproject2.week4.day3;
+package com.likelion.javaproject2.week4.day3.PracticeAbstact;
 
 public abstract class ShapeDrawer {
     public abstract String makeALine(int h, int i); // 다른 도형들도 그리기 위해서 이 메소드를 추상메소드로 지정

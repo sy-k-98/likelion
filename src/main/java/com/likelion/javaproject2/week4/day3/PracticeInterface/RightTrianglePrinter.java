@@ -1,7 +1,5 @@
-package com.likelion.javaproject2.week4.day3;
+package com.likelion.javaproject2.week4.day3.PracticeInterface;
 
-import java.io.BufferedWriter;
-import java.io.FileWriter;
 import java.io.IOException;
 
 public class RightTrianglePrinter {
