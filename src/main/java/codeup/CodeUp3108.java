@@ -80,12 +80,13 @@ public class CodeUp3108 {
             codeUp.process(line);
         }
 
-        int[] arr = new int[5];
-        for (int i = 0; i < 5; i++) {
-            arr[i] = sc.nextInt();
+        String[] arr = sc.nextLine().split(" ");
+        int[] num = new int[arr.length];
+        for (int i = 0; i < arr.length; i++) {
+            num[i] = Integer.parseInt(arr[i]);
         }
 
-        codeUp.printStudents(arr);
+        codeUp.printStudents(num);
 
     }
 }
