@@ -19,7 +19,6 @@ public class SelectionSort {
             arr[i] = arr[idx];
             arr[idx] = tmp;
         }
-
         System.out.println(Arrays.toString(arr));
     }
 }
