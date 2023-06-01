@@ -1,6 +1,6 @@
 package com.likelion.javaproject2.week1.day4;
 
-import com.likelion.javaproject2.PrintHello;
+import com.likelion.javaproject2.week1.day1.PrintHello;
 
 import java.util.Scanner;
 

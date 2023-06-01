@@ -1,6 +1,6 @@
 package com.likelion.javaproject2.week1.day5;
 
-import com.likelion.javaproject2.PrintHello;
+import com.likelion.javaproject2.week1.day1.PrintHello;
 
 public class ConstantEx {
     public final int MAX_LEVEL = 3;

@@ -1,4 +1,4 @@
-package com.likelion.javaproject2;
+package com.likelion.javaproject2.week1.day1;
 
 import java.time.LocalDate;
 import java.time.LocalDateTime;
