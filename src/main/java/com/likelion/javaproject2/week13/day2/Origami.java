@@ -17,9 +17,6 @@ public class Origami {
         }
     }
 
-    public Origami() {
-    }
-
     // 종이의 굴곡이 0과 1로 문자열로 주어진다.
     // 1000110
     private boolean foldable(String paper) {
