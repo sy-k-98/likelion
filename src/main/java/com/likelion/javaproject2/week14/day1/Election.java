@@ -9,7 +9,6 @@ import java.util.PriorityQueue;
 // boj - 국회의원 선거
 // https://www.acmicpc.net/problem/1417
 public class Election {
-
     public int solution() throws IOException {
         BufferedReader reader = new BufferedReader(
                 new InputStreamReader(System.in));

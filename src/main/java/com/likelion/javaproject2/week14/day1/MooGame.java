@@ -64,7 +64,7 @@ public class MooGame {
         }
     }
 
-        public static void main (String[]args) throws IOException {
-            System.out.println(new MooGame().solution());
-        }
+    public static void main(String[] args) throws IOException {
+        System.out.println(new MooGame().solution());
     }
+}
